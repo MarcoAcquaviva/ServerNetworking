@@ -1,0 +1,13 @@
+/Users/roberto/AIV_2019/GameServerExample2B/GameServerExample2B/bin/Debug/GameServerExample2B.exe
+/Users/roberto/AIV_2019/GameServerExample2B/GameServerExample2B/bin/Debug/GameServerExample2B.pdb
+/Users/roberto/AIV_2019/GameServerExample2B/GameServerExample2B/obj/x86/Debug/GameServerExample2B.csprojAssemblyReference.cache
+/Users/roberto/AIV_2019/GameServerExample2B/GameServerExample2B/obj/x86/Debug/GameServerExample2B.csproj.CoreCompileInputs.cache
+/Users/roberto/AIV_2019/GameServerExample2B/GameServerExample2B/obj/x86/Debug/GameServerExample2B.exe
+/Users/roberto/AIV_2019/GameServerExample2B/GameServerExample2B/obj/x86/Debug/GameServerExample2B.pdb
+D:\Desktop\Project\Lessons\Marzo\01-03-19\GameServerExample2B_refactored\GameServerExample2B\GameServerExample2B\bin\Debug\GameServerExample2B.exe.config
+D:\Desktop\Project\Lessons\Marzo\01-03-19\GameServerExample2B_refactored\GameServerExample2B\GameServerExample2B\bin\Debug\GameServerExample2B.exe
+D:\Desktop\Project\Lessons\Marzo\01-03-19\GameServerExample2B_refactored\GameServerExample2B\GameServerExample2B\bin\Debug\GameServerExample2B.pdb
+D:\Desktop\Project\Lessons\Marzo\01-03-19\GameServerExample2B_refactored\GameServerExample2B\GameServerExample2B\obj\x86\Debug\GameServerExample2B.csprojAssemblyReference.cache
+D:\Desktop\Project\Lessons\Marzo\01-03-19\GameServerExample2B_refactored\GameServerExample2B\GameServerExample2B\obj\x86\Debug\GameServerExample2B.csproj.CoreCompileInputs.cache
+D:\Desktop\Project\Lessons\Marzo\01-03-19\GameServerExample2B_refactored\GameServerExample2B\GameServerExample2B\obj\x86\Debug\GameServerExample2B.exe
+D:\Desktop\Project\Lessons\Marzo\01-03-19\GameServerExample2B_refactored\GameServerExample2B\GameServerExample2B\obj\x86\Debug\GameServerExample2B.pdb
